@@ -1,0 +1,5 @@
+qiskit
+pytket
+python-sat
+networkx
+matplotlib
